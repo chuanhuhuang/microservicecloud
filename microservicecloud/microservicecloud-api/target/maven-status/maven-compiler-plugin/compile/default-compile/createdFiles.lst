@@ -1,0 +1,5 @@
+com\grg\cloud\service\DeptClientService.class
+com\grg\cloud\DepEnity.class
+com\grg\cloud\service\DeptClientServiceFallbackFactory.class
+com\grg\cloud\Dept.class
+com\grg\cloud\service\DeptClientServiceFallbackFactory$1.class

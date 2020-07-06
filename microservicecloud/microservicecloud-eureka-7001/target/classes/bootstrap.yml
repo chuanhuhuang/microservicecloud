@@ -1,0 +1,6 @@
+# 处理Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/microservicecloud-dept/default"
+#处理远程获取配置
+spring:
+  cloud:
+    config:
+      enabled: false
